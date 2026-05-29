@@ -12,9 +12,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Alpinas Traslasierra | Cabañas y alpinas en las sierras",
+  title: "Damian Electricista",
   description:
-    "Construcción de alpinas y cabañas llave en mano en Traslasierra, Córdoba. Obras con pagos por avance y construcción artesanal.",
+    "Instalaciones eléctricas seguras, prolijas y profesionales para hogares y negocios. Atención clara, trabajo confiable y presupuestos personalizados.",
 };
 
 export default function RootLayout({ children }) {
