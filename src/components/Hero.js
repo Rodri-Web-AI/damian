@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { scrollToAnchor } from "@/lib/scrollToAnchor";
 
-const WHATSAPP_URL = "https://wa.me/5493544681747";
+const WHATSAPP_URL = "https://wa.me/5493544624532";
 
 const NAV_LINKS = [
   { href: "#inicio", label: "Inicio" },

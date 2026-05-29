@@ -2,7 +2,7 @@
 
 import { useInView } from "@/hooks/useInView";
 
-const WHATSAPP_URL = "https://wa.me/5493544681747";
+const WHATSAPP_URL = "https://wa.me/5493544624532";
 
 function WhatsAppIcon({ className = "h-7 w-7" }) {
   return (
