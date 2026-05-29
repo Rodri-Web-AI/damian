@@ -238,7 +238,7 @@ export default function Hero() {
                   d="M13 10V3L4 14h7v7l9-11h-7z"
                 />
               </svg>
-              Damian Electricista • Villa Dolores
+              Damian Electricista • Traslasierra
             </div>
 
             <h1
@@ -250,11 +250,11 @@ export default function Hero() {
               </span>
 
               <span className="block text-blue-600">
-                instalaciones eléctricas
+              Electricidad para hogares y negocios
               </span>
 
               <span className="block text-zinc-900">
-                en Villa Dolores.
+                en Traslasierra.
               </span>
             </h1>
 
@@ -264,7 +264,11 @@ export default function Hero() {
             >
               Soluciones eléctricas confiables para hogares y negocios,
               realizadas con atención clara, trabajo prolijo y terminaciones
-              profesionales.
+              profesionales. <br></br><br></br>
+
+              Villa Dolores, San José, Las Tapias, 
+              San Vicente, Los Cerrillos, Las Rosas, San Pedro, Villa Sarmiento, 
+              La Paz, San Javier, Piedra Pintada, entre otros 
             </p>
 
             {/* BOTONES */}
