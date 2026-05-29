@@ -127,15 +127,7 @@ export default function Footer() {
                   +54 9 3544-624532
                 </span>
               </div>
-              
-              <div className="flex items-center gap-4 text-slate-400">
-                <MailIcon />
-
-                <span className="text-sm sm:text-base">
-                  damianelectricista.villadolores@gmail.com
-                </span>
-              </div>
-
+                          
               <div className="flex items-center gap-4 text-slate-400">
                 <LocationIcon />
 

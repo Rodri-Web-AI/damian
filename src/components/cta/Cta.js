@@ -123,7 +123,7 @@ export default function Cta() {
 
             <span className="hidden sm:block">•</span>
 
-            <span>damianelectricista.villadolores@gmail.com</span>
+            <span>Damian - Electricista en Traslasierra</span>
           </div>
         </div>
       </div>
