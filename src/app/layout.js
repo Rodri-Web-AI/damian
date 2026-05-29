@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Damian Electricista",
   description:
-    "Instalaciones eléctricas seguras, prolijas y profesionales para hogares y negocios. Atención clara, trabajo confiable y presupuestos personalizados.",
+    "Instalaciones eléctricas en Traslasierra para hogares y negocios. Atención clara, trabajo confiable y presupuestos personalizados.",
 };
 
 export default function RootLayout({ children }) {
