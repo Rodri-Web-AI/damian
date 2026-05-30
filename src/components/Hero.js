@@ -263,7 +263,7 @@ export default function Hero() {
               style={{ animationDelay: "0.4s" }}
             >
               ¿Tenés algún problema de electricidad en tu hogar/negocio?
-              Yo me encargo. Electricista con 20 años de experiencia.<br></br><br></br>
+              Yo me encargo. Electricista con más de 20 años de experiencia.<br></br><br></br>
 
               Servicios en:
               Villa Dolores, San José, Las Tapias, 
@@ -316,16 +316,20 @@ export default function Hero() {
 
           {/* RIGHT */}
           <div
-            className="flex items-center justify-center animate-fade-in-up lg:col-span-7 lg:justify-end"
-            style={{ animationDelay: "0.7s" }}
+            className="flex items-start justify-center animate-fade-in-up lg:col-span-7 -mt-20"
           >
-            <div className="relative w-full mix-blend-multiply transition-transform duration-500 sm:max-w-2xl lg:max-w-none lg:translate-x-8 lg:scale-125 xl:translate-x-12 xl:scale-[1.35]">
-              <img
-                src="/images/hero-render.png"
-                alt="Sistema eléctrico moderno"
-                className="h-auto w-full object-contain object-center"
-                loading="eager"
-              />
+            <div className="w-full max-w-3xl overflow-hidden rounded-3xl border border-zinc-200 bg-white shadow-xl">
+              <video
+                className="w-full h-auto object-cover"
+                autoPlay
+                muted
+                loop
+                playsInline
+                preload="metadata"
+              >
+                <source src="/images/DAMIAN AD1.mp4" type="video/mp4" />
+                Tu navegador no soporta video.
+              </video>
             </div>
           </div>
         </div>
