@@ -12,10 +12,10 @@ export default function Home() {
   return (
     <>
       <Hero />
-      <PainPoints />
-      <WhyChooseUs />
-      <Process />
-      <Projects />
+      {/*<PainPoints />*/}
+      {/*<WhyChooseUs />*/}
+      {/*<Process />*/}
+      {/*<Projects />*/}
       <EnObra />
       <QuienesSomos />
       <Cta />

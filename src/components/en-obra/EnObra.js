@@ -7,7 +7,7 @@ const PROCESS_STEPS = [
     number: "01",
     title: "Contacto",
     description:
-      "Contáctame por WhatsApp y cuéntame tu situación",
+      "Contactame por WhatsApp y contame tu situación",
     icon: (
       <svg
         className="h-7 w-7"
@@ -28,7 +28,7 @@ const PROCESS_STEPS = [
     number: "02",
     title: "Evaluación",
     description:
-      "Visita al lugar para evaluar y diagnosticar el trabajo",
+      "Visita al lugar para analizar el problema",
     icon: (
       <svg
         className="h-7 w-7"
@@ -49,7 +49,7 @@ const PROCESS_STEPS = [
     number: "03",
     title: "Presupuesto",
     description:
-      "Presupuesto claro y detallado sin sorpresas",
+      "Presupuesto claro y detallado",
     icon: (
       <svg
         className="h-7 w-7"
@@ -91,7 +91,7 @@ const PROCESS_STEPS = [
     number: "05",
     title: "Entrega final",
     description:
-      "Revisión completa, limpieza y entrega ordenada",
+      "Revisión completa y terminaciones",
     icon: (
       <svg
         className="h-7 w-7"

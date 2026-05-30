@@ -7,7 +7,7 @@ const WHATSAPP_URL = "https://wa.me/5493544624532";
 
 const NAV_LINKS = [
   { href: "#inicio", label: "Inicio" },
-  { href: "#servicios", label: "Servicios" },
+  { href: "#proceso", label: "Proceso" },
   { href: "#portfolio", label: "Trabajos" },
   { href: "#contacto", label: "Contacto" },
 ];
@@ -262,13 +262,13 @@ export default function Hero() {
               className="mt-6 max-w-xl animate-fade-in-up text-base leading-relaxed text-zinc-600 sm:text-lg"
               style={{ animationDelay: "0.4s" }}
             >
-              Soluciones eléctricas confiables para hogares y negocios,
-              realizadas con atención clara, trabajo prolijo y terminaciones
-              profesionales. <br></br><br></br>
+              ¿Tenés algún problema de electricidad en tu hogar/negocio?
+              Yo me encargo. Electricista con 20 años de experiencia.<br></br><br></br>
 
+              Servicios en:
               Villa Dolores, San José, Las Tapias, 
               San Vicente, Los Cerrillos, Las Rosas, San Pedro, Villa Sarmiento, 
-              La Paz, San Javier, Piedra Pintada, entre otros 
+              La Paz, San Javier, Piedra Pintada, entre otros
             </p>
 
             {/* BOTONES */}

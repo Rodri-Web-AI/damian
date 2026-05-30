@@ -6,8 +6,7 @@ const SERVICES = [
   "Tableros eléctricos",
   "Iluminación LED",
   "Mantenimiento",
-  "Automatización",
-];
+ ];
 
 function PhoneIcon() {
   return (

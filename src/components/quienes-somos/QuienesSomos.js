@@ -8,21 +8,21 @@ const PROJECTS = [
     title: "Tableros eléctricos",
     category: "Residencial",
     description:
-      "Montaje, cableado y protección eléctrica bajo normativa.",
+      "Montaje y cableado eléctrico bajo normativa.",
   },
   {
     image: "/images/Trabajos/instalacion_electrica_luces_led_image2.jpg",
     title: "Iluminación interior",
     category: "Comercial",
     description:
-      "Diseño de iluminación LED moderna para interiores.",
+      "Diseño de iluminación LED para interiores.",
   },
   {
     image: "/images/Trabajos/luz_led_image3.jpg",
     title: "Cableado estructurado",
     category: "Residencial",
     description:
-      "Distribución segura y organizada para todo el hogar.",
+      "Distribución organizada para todo el hogar.",
     featured: true,
   },
   {
@@ -30,35 +30,35 @@ const PROJECTS = [
     title: "Instalaciones seguras",
     category: "Industrial",
     description:
-      "Protección y armado profesional para sistemas eléctricos.",
+      "Protección y armado de sistemas eléctricos.",
   },
   {
     image: "/images/Trabajos/instalacion electrica_image5.jpg",
     title: "Diagnóstico eléctrico",
     category: "Residencial",
     description:
-      "Detección de fallas y revisión integral de instalaciones.",
+      "Detección de fallas y revisión de instalaciones.",
   },
   {
     image: "/images/Trabajos/instalacion_pilar_image6.jpg",
     title: "Instalaciones completas",
     category: "Comercial",
     description:
-      "Soluciones eléctricas integrales para negocios.",
+      "Soluciones eléctricas para negocios.",
   },
   {
     image: "/images/Trabajos/Cables_image7.jpg",
-    title: "Luminarias modernas",
+    title: "Luminarias",
     category: "Oficinas",
     description:
-      "Instalación de luminarias eficientes y modernas.",
+      "Instalación de luminarias.",
   },
   {
     image: "/images/Trabajos/trabajo_image8.jpg",
     title: "Distribución eléctrica",
     category: "Industrial",
     description:
-      "Cableado técnico para alto rendimiento y seguridad.",
+      "Cableado técnico de interiores.",
   },
 ];
 

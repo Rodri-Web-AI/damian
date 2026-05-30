@@ -99,7 +99,7 @@ export default function Cta() {
 
           {/* SUBTITLE */}
           <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-blue-100 sm:text-xl">
-            Pedí tu presupuesto sin compromiso y recibí atención profesional,
+            Contactame sin compromiso y recibí atención profesional,
             rápida y transparente.
           </p>
 
