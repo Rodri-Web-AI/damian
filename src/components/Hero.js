@@ -316,7 +316,7 @@ export default function Hero() {
 
           {/* RIGHT */}
           <div
-            className="flex items-start justify-center animate-fade-in-up lg:col-span-7 -mt-20"
+            className="flex items-start justify-center animate-fade-in-up lg:col-span-7"
           >
             <div className="w-full max-w-3xl overflow-hidden rounded-3xl border border-zinc-200 bg-white shadow-xl">
               <video
